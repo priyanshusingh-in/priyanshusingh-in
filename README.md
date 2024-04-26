@@ -1,3 +1,6 @@
+
+![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/priyanshusingh-in/priyanshusingh-in/assets/87827548/cdaf7906-6c5b-40d1-81bd-47133e35ec37)
+
 # 💫 About Me:
 Pursuing Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a minor in Cloud Computing from Lovely Professional University (LPU), Punjab.
 The 4-year program started in 2022 and is expected to complete in 2026.Core courses covered topics like Programming, Data Structures, Computer Networks, Databases, Operating Systems, Software Engineering etc.
@@ -24,6 +27,6 @@ Currently in the 4th semester of the program.
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ipriyanshusingh) 
 
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/priyanshusingh-in/priyanshusingh-in/assets/87827548/b76577d0-a648-4b2f-b99b-2c219f277b43)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
