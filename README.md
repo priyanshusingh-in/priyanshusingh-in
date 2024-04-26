@@ -1,5 +1,5 @@
+![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e-ezgif com-crop (1)](https://github.com/priyanshusingh-in/priyanshusingh-in/assets/87827548/bbc83c52-19c2-4e2c-a06f-3550f50367dc)
 
-![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e](https://github.com/priyanshusingh-in/priyanshusingh-in/assets/87827548/cdaf7906-6c5b-40d1-81bd-47133e35ec37)
 
 # 💫 About Me:
 Pursuing Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a minor in Cloud Computing from Lovely Professional University (LPU), Punjab.
