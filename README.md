@@ -5,8 +5,6 @@
 Pursuing Bachelor of Technology (BTech) in Computer Science and Engineering (CSE) with a minor in Cloud Computing from Lovely Professional University (LPU), Punjab.
 The 4-year program started in 2022 and is expected to complete in 2026.
 Core courses covered topics like Programming, Data Structures, Computer Networks, Databases, Operating Systems, Software Engineering etc.
-Additionally, taking elective courses focused on Cloud Computing like Managing Cloud Solutions, Cloud Architecture and Implementation, Cloud Microservices, Cloud Infrastructure and Resource Management as part of the minor specialization.
-Currently in the 4th semester of the program.
 
 
 ## 🌐 Socials:
