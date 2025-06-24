@@ -43,13 +43,13 @@ technical_background:
   - "Kotlin & SQL"
 
 currently_learning:
-  ["Advanced Flutter Patterns", "System Design", "Cloud Technologies"]
-2024_goals:
-  [
-    "Contribute to Open Source",
-    "Build Scalable Mobile Apps",
-    "Learn Cloud Architecture",
-  ]
+  - "Advanced Flutter Patterns"
+  - "System Design"
+  - "Cloud Technologies"
+2025_goals:
+  - "Contribute to Open Source"
+  - "Build Scalable Mobile Apps"
+  - "Learn Cloud Architecture"
 hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 ```
 
@@ -75,7 +75,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 
 ## 💼 Professional Experience
 
-### 🔹 Software Development Intern | Airia (DrCode) | April 2025 - Present
+### 🔹 Software Development Intern | Airia (DrCode) | Since April 2024
 
 - 🏗️ **Architected enterprise-grade Flutter mobile application** with offline-first architecture and clean design patterns
 - 🌍 **Integrated real-time GPS location tracking**, automated image compression, and intelligent caching with 95% app optimization
@@ -192,7 +192,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/priyanshusingh-in/priyanshusingh-in/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 💡 Random Dev Quote
