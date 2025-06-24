@@ -180,7 +180,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=dark&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshusingh-in&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -189,6 +189,11 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshusingh-in&theme=github_dark" alt="GitHub Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusingh-in&theme=github_dark" alt="GitHub Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusingh-in&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -200,7 +205,11 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/priyanshusingh-in/priyanshusingh-in/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/priyanshusingh-in/priyanshusingh-in/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/priyanshusingh-in/priyanshusingh-in/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/priyanshusingh-in/priyanshusingh-in/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 💡 Random Dev Quote
@@ -227,6 +236,20 @@ JSON          20 mins         ░░░░░░░░░░░░░░░░�
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=priyanshusingh-in&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </div>
+
+<details>
+<summary>📈 More GitHub Stats</summary>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshusingh-in&theme=radical" alt="WakaTime Stats"/>
+</div>
+
+</details>
 
 ---
 
