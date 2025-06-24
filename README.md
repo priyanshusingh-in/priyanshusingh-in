@@ -187,15 +187,6 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshusingh-in&theme=github_dark" alt="GitHub Profile Summary"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshusingh-in&theme=github_dark" alt="GitHub Stats Card"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshusingh-in&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -212,13 +203,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
   </picture>
 </div>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
-
-## 📈 Weekly Development Breakdown
+## 📈 Development Focus
 
 <!--START_SECTION:waka-->
 
@@ -231,25 +216,11 @@ JSON          20 mins         ░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 👁️ Profile Stats
+## 👁️ Profile Views
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=priyanshusingh-in&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </div>
-
-<details>
-<summary>📈 More GitHub Stats</summary>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshusingh-in&theme=radical" alt="WakaTime Stats"/>
-</div>
-
-</details>
 
 ---
 
