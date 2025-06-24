@@ -7,8 +7,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/github-profile-views?username=priyanshusingh-in&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/priyanshusingh-in?label=Followers&style=social" alt="GitHub Badge"/>
+  <img src="https://komarev.com/github-profile-views?username=priyanshusingh-in&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/priyanshusingh-in?label=Followers&style=for-the-badge&color=blue" alt="GitHub Badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Languages-6-orange?style=for-the-badge"/>
 </div>
 
 ## 🚀 About Me
@@ -176,11 +180,15 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshusingh-in&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=dark&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&custom_title=Priyanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b4d8&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshusingh-in&theme=github_dark" alt="GitHub Profile Summary"/>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -213,6 +221,12 @@ JSON          20 mins         ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## 👁️ Profile Stats
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=priyanshusingh-in&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</div>
 
 ---
 
