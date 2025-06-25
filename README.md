@@ -164,7 +164,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshusingh-in&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=priyanshusingh-in&theme=ocean-dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
