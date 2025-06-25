@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Developer;Mobile+App+Developer;Flutter+Enthusiast;Tech+Explorer;" />
 </h1>
 
-<div align="center">
-  <img src="https://komarev.com/github-profile-views?username=priyanshusingh-in&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/priyanshusingh-in?label=Followers&style=for-the-badge&color=blue" alt="GitHub Badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Languages-6-orange?style=for-the-badge"/>
-</div>
-
 ## 🚀 About Me
 
 ```yaml
@@ -72,9 +63,6 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
   <a href="mailto:in.priyanshusingh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:+91-6307462783">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
 </div>
 
 ## 💼 Professional Experience
@@ -98,7 +86,6 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 🛒 Implemented shopping cart functionality with a responsive user interface  
 🔒 Created a secure authentication system for user management and data protection  
 🏠 Designed intuitive homepage with product browsing and category filtering capabilities  
-📱 **Live:** [Farm Fresh Project](https://bit.ly/projectstore-in)
 
 ---
 
@@ -110,7 +97,6 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 🔐 Implemented authentication system with multiple sign-in options including Google and Apple  
 📋 Created job listing page with filtering and search capabilities  
 👤 Designed basic profile interface for users to showcase their skills and experience  
-📱 **Live:** [CoderX Project](https://bit.ly/projectstore-in)
 
 ---
 
@@ -121,8 +107,6 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 🎯 Developed a modern implementation of Tic-tac-toe with an AI opponent  
 🔥 Created a sleek dark UI theme with responsive design elements  
 ⚡ Implemented timed moves functionality to add strategic gameplay elements  
-📱 **GitHub:** [Tic-Tac-Toe Repository](https://github.com/priyanshusingh-in/Tac-Ai)  
-📱 **Live:** [Project Demo](https://bit.ly/projectstore-in)
 
 </div>
 
@@ -215,17 +199,6 @@ JSON          20 mins         ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## 👁️ Profile Views & Stats
-
-<div align="center">
-  <img src="https://komarev.com/github-profile-views?username=priyanshusingh-in&style=flat-square&color=12100E&label=Profile+views" alt="Profile Views Counter"/>
-  <br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpriyanshusingh-in%2Fpriyanshusingh-in&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits Counter"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Total%20Commits-2024-blue?style=flat-square&logo=git&logoColor=white" alt="Total Commits 2024"/>
-  <img src="https://img.shields.io/badge/Total%20Issues-Resolved-green?style=flat-square&logo=github&logoColor=white" alt="Issues Resolved"/>
-</div>
 
 ---
 
