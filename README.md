@@ -163,7 +163,9 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=dark" alt="GitHub Streak" /></a>
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshusingh-in&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
