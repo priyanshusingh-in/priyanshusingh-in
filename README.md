@@ -17,8 +17,6 @@ education:
   - "Lovely Professional University, Punjab"
 previous_education:
   - "D. C. Lewis Memorial School (CISCE) - 2021"
-  - "Intermediate: 80.50%"
-  - "High School: 81.40%"
 
 fields_of_interests:
   - "Mobile App Development"
