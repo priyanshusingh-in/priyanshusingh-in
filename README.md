@@ -15,7 +15,6 @@ current_job: Software Development Intern at Airia (DrCode)
 education:
   - "Computer Science & Engineering (2022-2026)"
   - "Lovely Professional University, Punjab"
-  - "CGPA: 7.41"
 previous_education:
   - "D. C. Lewis Memorial School (CISCE) - 2021"
   - "Intermediate: 80.50%"
