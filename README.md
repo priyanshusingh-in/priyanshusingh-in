@@ -64,7 +64,7 @@ hobbies: ["Coding", "Tech Blogs", "Problem Solving", "Mobile Photography"]
 
 ## 💼 Professional Experience
 
-### 🔹 Software Development Intern | Airia (DrCode) | Since April 2024
+### 🔹 Software Development Intern | Airia (DrCode) | Since April 2025
 
 - 🏗️ **Architected enterprise-grade Flutter mobile application** with offline-first architecture and clean design patterns
 - 🌍 **Integrated real-time GPS location tracking**, automated image compression, and intelligent caching with 95% app optimization
