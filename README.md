@@ -39,7 +39,7 @@ Cross-Platform Developer crafting mobile experiences at **Airlo Tech (iklo)**. F
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
   
-  ![GitHub Streak Card](https://v0-git-hub-streak-score-card-phi.vercel.app/api/streak?user=priyanshusingh-in&theme=ocean)
+  ![GitHub Streak Card](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=priyanshusingh-in&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=1)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
