@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Builder;Open+Source+Contributor;MERN+Explorer)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Builder;Open+Source+Contributor;MERN+Explorer" alt="Typing SVG"/>
+</p>
 
 I'm **Priyanshu Singh**, a Flutter Developer Intern at Airlo Tech, building cross-platform mobile applications. Currently in my final year pursuing BTech in Computer Science and Engineering at Lovely Professional University. Passionate about creating innovative solutions and exploring new technologies.
 
@@ -20,13 +22,15 @@ I'm **Priyanshu Singh**, a Flutter Developer Intern at Airlo Tech, building cros
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh-in&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=radical" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh-in&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=radical" alt="GitHub Trophy"/>
+</p>
 
 ## 📫 Connect with Me
 
@@ -39,11 +43,15 @@ I'm **Priyanshu Singh**, a Flutter Developer Intern at Airlo Tech, building cros
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=priyanshusingh-in.priyanshusingh-in)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshusingh-in.priyanshusingh-in" alt="Visitor Count"/>
+</p>
 
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-> "Building the future, one line of code at a time."
+<p align="center">
+  "Building the future, one line of code at a time."
+</p>
