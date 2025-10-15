@@ -1,57 +1,108 @@
-# Hi there! 👋
+# Hi there, I'm Priyanshu Singh 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Flutter+Developer;Cross-Platform+App+Builder;Open+Source+Contributor;MERN+Explorer" alt="Typing SVG"/>
-</p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshusingh-in/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolly.io/priyanshusingh)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:in.priyanshusingh@gmail.com)
 
-I'm **Priyanshu Singh**, a Flutter Developer Intern at Airlo Tech, building cross-platform mobile applications. Currently in my final year pursuing BTech in Computer Science and Engineering at Lovely Professional University. Passionate about creating innovative solutions and exploring new technologies.
+</div>
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-- Developing Flutter apps with offline-first architecture and advanced state management
-- Exploring MERN stack for full-stack development
-- Contributing to open-source projects and community initiatives
+Cross-Platform Developer crafting mobile experiences at **Airlo Tech (iklo)**. Final year BTech CSE student at LPU, Punjab. Passionate about building elegant, performant multi-platform solutions.
 
-## 🛠️ Tech Stack
+- � Currently working as **Flutter Developer Intern** at iklo
+- 🌱 Exploring **MERN Stack** & advancing in **Mobile Development**
+- 💼 Previously contributed as **SWD Intern** at DrCode
+- 📍 Based in Sonbhadra, Uttar Pradesh, India
+- 💬 Ask me about **Flutter, Dart, Mobile Architecture**
+- 📫 Reach me: **<in.priyanshusingh@gmail.com>**
 
-- **Languages:** Dart, Java, C/C++, JavaScript
-- **Frameworks:** Flutter, React, Node.js, Express
-- **Databases:** MongoDB, Hive
-- **Tools:** Git, GitHub, AWS, Docker
-- **Certifications:** AWS, Data Structures & Algorithms, MongoDB, GitHub Codespaces
+## � Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=radical" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshusingh-in&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=radical" alt="GitHub Trophy"/>
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=priyanshusingh-in&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
-## 📫 Connect with Me
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshusingh-in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/priyanshusingh-in"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://portfolly.io/priyanshusingh"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:in.priyanshusingh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  
+</div>
+
+## � Professional Experience
+
+**Flutter Developer Intern** @ iklo (Airlo Tech)  
+*July 2025 - Present*
+
+- Building mobile applications with modern Flutter architecture
+- Contributing to cross-platform development initiatives
+
+**Software Development Intern** @ DrCode  
+*April 2025 - July 2025*
+
+- Architected enterprise-grade Flutter app with offline-first architecture
+- Achieved 40% storage optimization through intelligent media processing
+- Implemented Flutter BLoC with 99.9% app reliability
+
+## 🎓 Education
+
+**Lovely Professional University**  
+Bachelor of Technology in Computer Science & Engineering  
+*2022 - 2026*
+
+## 🌟 Highlights
+
+- 🏆 Android Masters Hackathon Winner
+- 📝 Former Quora Partner Program Writer
+- 🤝 Community Development Volunteer
+- 📚 Certified in AWS, DSA, MongoDB & more
+
+## 📈 Activity Graph
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&theme=redical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
+  
+</div>
+
+## 🤝 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just chatting about technology. Feel free to reach out!
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshusingh-in&color=F85D7F&style=for-the-badge)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=priyanshusingh-in.priyanshusingh-in" alt="Visitor Count"/>
-</p>
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<p align="center">
-  "Building the future, one line of code at a time."
-</p>
+<div align="center">
+  
+### 💭 "Building the future, one commit at a time."
+  
+</div>
