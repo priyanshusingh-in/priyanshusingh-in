@@ -127,8 +127,8 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 
   <br/><br/>
 
-  <!-- Streak Stats (Alternative Host) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshusingh-in&theme=dark&hide_border=true&card_width=400&hide_total_contributions=true&hide_longest_streak=true" alt="Streak Stats" />
+  <!-- Streak Stats -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=priyanshusingh-in&theme=blue-green)](https://git.io/streak-stats)
 </div>
 
 <br/>
