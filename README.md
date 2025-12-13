@@ -52,7 +52,7 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 
 | **Core Mobile Tech** | **Tools & Architecture** | **Exploring (Backend)** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" /> |
+| <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /><br/><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" /><br/><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /><br/><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" /> | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /><br/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /><br/><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><br/><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /><br/><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /><br/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /><br/><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /> |
 
 </div>
 
@@ -87,11 +87,28 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 
 ### 🏆 Hall of Fame
 
-> **"One of the most driven and detail-oriented young developers I’ve come across. Implemented advanced state management achieving 99.9% app reliability."**  
+> **"I can confidently say that he is a dedicated and talented developer... His problem-solving ability, eagerness to learn, and collaborative mindset make him a valuable asset to any team... I truly admire Priyanshu’s enthusiasm for technology."**  
+> — *Dr. Om Prakash Yadav (Associate Professor, LPU)*
+
+<br/>
+
+> **"It is my pleasure to mentor Priyanshu Singh, who has strong abilities in coding, cloud architecture, and problem-solving. He consistently approached challenges with clarity and delivered efficient, scalable solutions. His technical expertise, curiosity, and dedication make him a valuable asset to any team."**  
+> — *HIDAM RAMESHWAR (Assistant Professor)*
+
+<br/>
+
+> **"Priyanshu is dedicated and hardworking student... I find Priyanshu to be an impeccable team player. I wish him well in his future endeavors."**  
+> — *Gunseerat Kaur (Assistant Professor)*
+
+<br/>
+
+> **"One of the most driven and detail-oriented young developers I’ve come across. Implemented advanced state management achieving 99.9% app reliability... I’m confident that with his talent, work ethic, and passion for development, Priyanshu will be a valuable asset to any tech team he joins."**  
 > — *Ravi Kant Sahu (Assistant Professor, LPU)*
 
-> **"His problem-solving ability, eagerness to learn, and collaborative mindset make him a valuable asset to any team."**  
-> — *Dr. Om Prakash Yadav (Associate Professor, LPU)*
+<br/>
+
+> **"Priyanshu is a person of calm composure, observant and dedicated... He is visionary and innovative... I recommend him for any future endeavours he wants to choose or work."**  
+> — *Dr. Ayushi Pal (Assistant Professor)*
 
 ---
 
@@ -103,11 +120,13 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </div>
 
+<br/>
+
+<!-- GitHub Trophies (Replaces broken Streak Stats) -->
 <div align="center">
- <br/>
- <a href="https://github.com/priyanshusingh-in">
-  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=omni&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
- </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=git_dark&no-frame=true&margin-w=15" alt="Priyanshu's Trophies" />
+  </a>
 </div>
 
 <br/>
