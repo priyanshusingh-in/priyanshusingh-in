@@ -17,16 +17,16 @@
   <a href="https://dart.dev">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   </a>
-  <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </a>
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:in.priyanshusingh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <b> 🚀 Flutter Architect | 🎨 UI/UX Enthusiast | 🧠 AI Integrator</b><br/>
+  <b> 🚀 Flutter Specialist | 🎨 Pixel-Perfect UI | ⚡ Performance Geek</b><br/>
   Based in <b>Sonbhadra, Uttar Pradesh</b> 🇮🇳
 </p>
 
@@ -38,11 +38,11 @@
 
 ### ⚡ About Me
 
-I specialize in **Flutter & Dart**, crafting high-performance mobile applications that look beautiful and run smoothly. With a background in **offline-first architectures** (BLoC, Hive) and full-stack development (Node.js, Mongo), I bridge the gap between pixel-perfect design and rock-solid backend logic.
+I am a passionate **Flutter Developer** focused on crafting high-performance mobile applications with smooth 60fps animations. My expertise lies in **offline-first architectures** (BLoC, Hive) and Clean Architecture. While my heart beats for Mobile Dev, I occasionally dabble in backend technology to better understand the full ecosystem.
 
-*   🔭 **Working on:** Scalable features at **iklo** & **DrCode**.
-*   🌱 **Learning:** Advanced System Design & Native Android Performance.
-*   💬 **Ask me about:** State Management, clean architecture, or why your frame dropped.
+*   🔭 **Focus:** Building scalable mobile apps at **iklo** & **DrCode**.
+*   🌱 **Learning:** Advanced Systems Design & Native Android/iOS integrations.
+*   ⚡ **Fun fact:** I can center a widget in my sleep.
 
 ---
 
@@ -50,9 +50,9 @@ I specialize in **Flutter & Dart**, crafting high-performance mobile application
 
 <div align="center">
 
-| **Mobile Core** | **Backend & Cloud** | **Tools & DevOps** |
+| **Core Mobile Tech** | **Tools & Architecture** | **Exploring (Backend)** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase" /> |
 
 </div>
 
@@ -62,26 +62,26 @@ I specialize in **Flutter & Dart**, crafting high-performance mobile application
 
 #### 🔹 [**iklo**](https://play.google.com/store/apps/details?id=com.airlo.iklo) | *Flutter Developer*
 > *Hyderabad, India (Hybrid) | July 2025 - Present*
-*   **Architecture:** Built end-to-end Flutter UIs connected to REST APIs & Firebase.
-*   **Optimization:** Profiled app performance, reducing jank and optimizing rendering pipelines.
-*   **Scalability:** Modularized key codebase sections for future-proof feature development.
+*   **Mobile First:** Built end-to-end Flutter UIs featuring complex animations and seamless API integrations.
+*   **Optimization:** Profiled app performance to reduce jank, ensuring a buttery smooth user experience.
+*   **Modularization:** Refactored legacy monolithic code into scalable feature modules.
 
 #### 🔹 [**DrCode**](https://drcode.in) | *Software Development Intern*
 > *Noida, India (Hybrid) | April 2025 - July 2025*
-*   **Offline-First:** Led development of a resilient app using BLoC and local caching.
-*   **Efficiency:** Designed media caching logic that slashed storage usage by **40%**.
-*   **Features:** Implemented real-time location tracking and secure media handling.
+*   **Offline Excellence:** Architected a resilient app using BLoC state management and local Hive storage.
+*   **Smart Caching:** Designed media compression logic that reduced storage usage by **40%**.
+*   **Native Features:** Implemented real-time GPS location tracking and sensor handling.
 
 ---
 
 ### 🚀 Featured Projects
 
-| **Project** | **Description & Tech** |
+| **Project** | **Description** |
 | :--- | :--- |
-| **🤖 AIdo** | **AI Scheduler** • *Flutter, Node.js, Gemini AI*<br/>Full-stack scheduler converting natural language into structured daily tasks. Features JWT auth & rate-limiting. |
-| **📚 MediLearn AI** | **Study Platform** • *Next.js, TypeScript, Gemini*<br/>Generates personalized quizzes and AI-graded feedback. Tracks user performance on dynamic leaderboards. |
-| **🛒 LPU Fresh** | **Campus Marketplace** • *Flutter, Dart, Realtime DB*<br/>A realtime buying/selling platform for campus essentials. Solves the "where do I buy a kettle" problem. |
-| **☁️ AirHygro** | **Weather App** • *Flutter, OpenWeatherMap*<br/>Cross-platform weather tool with custom UI and efficient BLoC state management. |
+| **🤖 AIdo** | **Smart Scheduler App**<br/>Constructed the mobile interface for an AI scheduler. Integrated Gemini AI to convert natural language into daily tasks. |
+| **📚 MediLearn AI** | **EdTech Platform**<br/>Developed interactive quiz interfaces and tracking dashboards. Focused on user engagement and real-time feedback loops. |
+| **🛒 LPU Fresh** | **Campus Marketplace**<br/>A realtime buying/selling app for campus essentials. Solved the "where do I buy a kettle" problem with a clean, intuitive UI. |
+| **☁️ AirHygro** | **Weather Tool**<br/>Cross-platform weather app showcasing strict Clean Architecture and BLoC for reliable state management. |
 
 ---
 
@@ -98,7 +98,7 @@ I specialize in **Flutter & Dart**, crafting high-performance mobile application
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=omni&hide_border=true&bg_color=00000000" alt="Priyanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=omni&hide_border=true&bg_color=00000000&include_all_commits=true" alt="Priyanshu's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
 </div>
@@ -119,5 +119,5 @@ I specialize in **Flutter & Dart**, crafting high-performance mobile application
     <a href="mailto:in.priyanshusingh@gmail.com">Email</a> • 
     <a href="https://github.com/priyanshusingh-in">GitHub</a>
   </p>
-  <sub><i>"Code never lies, comments sometimes do."</i></sub>
+  <sub><i>"Pixel perfect, every frame."</i></sub>
 </div>
