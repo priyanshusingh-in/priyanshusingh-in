@@ -115,18 +115,8 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=omni&hide_border=true&bg_color=00000000&include_all_commits=true" alt="Priyanshu's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- GitHub Trophies (Replaces broken Streak Stats) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=git_dark&no-frame=true&margin-w=15" alt="Priyanshu's Trophies" />
-  </a>
+  <!-- Use metrics.lecoq.io for a reliable, feature-rich alternative -->
+  <img src="https://metrics.lecoq.io/priyanshusingh-in?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics" />
 </div>
 
 <br/>
