@@ -115,14 +115,14 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Metrics: Contributions, Commit Habits & Isometric Calendar -->
-  <img src="https://metrics.lecoq.io/priyanshusingh-in?template=classic&config.timezone=Asia%2FKolkata&base=header,activity,community,repositories,metadata&isocalendar=1&isocalendar.duration=full-year" alt="Detailed Metrics" />
-</div>
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh-in&theme=git_dark&no-frame=true&margin-w=15" alt="Priyanshu's Trophies" />
+  <!-- Classic Metrics (Reliable) -->
+  <img src="https://metrics.lecoq.io/priyanshusingh-in?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics" />
+  
+  <br/><br/>
+  
+  <!-- Activity Graph (The Graph) -->
+  <a href="https://github.com/priyanshusingh-in">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=0075C2&line=02569B&point=FFFFFF&hide_border=true" alt="Priyanshu's Activity Graph" />
   </a>
 </div>
 
