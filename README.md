@@ -3,135 +3,167 @@
   <img src="assets/header.svg" width="100%" alt="Priyanshu's Header Banner" />
 </div>
 
-<!-- Introduction & Title -->
-<h1 align="center">Hi there, I'm Priyanshu Singh! 👋</h1>
+<!-- Creative Hero Section: Text Left, Large Profile Right -->
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Column: Info & Bio -->
+    <td width="55%" valign="center">
+      <h1>Hi, I'm Priyanshu Singh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+      
+      <p>
+        <b>Flutter Developer 💙 | App Architect 📱 | Performance Obsessive ⚡</b>
+      </p>
 
-<p align="center">
-  <a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  </a>
-  <a href="https://dart.dev">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  </a>
-  <a href="https://linkedin.com/in/priyanshusingh-in">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:in.priyanshusingh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+      <p>
+        I build high-performance, <b>offline-first</b> mobile applications that feel silky smooth. 
+        Currently scaling apps at <b>iklo</b> and crafting pixel-perfect experiences.
+      </p>
 
-<p align="center">
-  <b>Flutter Developer 💙 | Mobile Architecture Enthusiast 📱 | Bug Slayer ⚔️</b>
-</p>
+      <p>
+        <i>"I don't just write code; I write logic that paints pixels."</i> 🎨
+      </p>
 
-<p align="center">
-  <i>"I turn coffee ☕ into smooth, 60fps mobile applications."</i>
-</p>
+      <br />
+
+      <!-- Social Badges -->
+      <p>
+        <a href="https://linkedin.com/in/priyanshusingh-in">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+        </a>
+        <a href="https://github.com/priyanshusingh-in">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
+        </a>
+        <a href="mailto:in.priyanshusingh@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+        </a>
+      </p>
+      
+      <br />
+      
+      <p>� <b>Sonbhadra, Uttar Pradesh, India</b> 🇮🇳</p>
+      <p>🎓 <b>B.Tech CSE</b> @ Lovely Professional University (2026)</p>
+    </td>
+
+    <!-- Right Column: Large Half-Face Profile Photo -->
+    <td width="45%" align="right" valign="bottom">
+      <img src="assets/profile-photo.svg" width="100%" alt="Priyanshu Profile" style="max-width: 400px; transform: scale(1.2); margin-right: -20px;" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- Profile Section -->
+<!-- Tech Stack -->
+<h3 align="center">🛠️ Tech Stack & Arsenal</h3>
 <div align="center">
-  <img src="assets/profile-photo.svg" width="180" height="180" alt="Priyanshu Profile" />
-  <br />
-  <p>
-    Based in <b>Sonbhadra, Uttar Pradesh</b> 🇮🇳<br/>
-    Coding globally.
-  </p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,java,nodejs,express,mongodb,firebase,git,github,vscode,linux,figma&perline=7" />
 </div>
 
----
+<br />
 
-### 🧐 About Me
+<!-- Experience Section -->
+<table border="0" width="100%">
+  <tr>
+    <td width="100%">
+      <h3>💼 Professional Experience</h3>
+      
+      <h4>� Flutter Developer | <a href="https://play.google.com/store/apps/details?id=com.airlo.iklo">iklo</a> (Hyderabad)</h4>
+      <p><i>July 2025 - Present</i></p>
+      <ul>
+        <li>🏗️ <b>End-to-End Dev:</b> Architecting robust Flutter UIs integrated with REST APIs & Firebase.</li>
+        <li>⚡ <b>Performance:</b> Profiling apps to eliminate jank, optimizing rendering pipelines.</li>
+        <li>🧩 <b>Modularization:</b> Refactoring legacy monoliths into scalable, testable feature modules.</li>
+      </ul>
 
-Startups, hefty codebases, and complex animations—I love it all. I’m a **Flutter Developer** with a knack for building offline-first architectures (because let's face it, the internet isn't everywhere) and pixel-perfect UIs. 
+      <h4>🏎️ Software Development Intern | <a href="https://drcode.in">DrCode</a> (Noida)</h4>
+      <p><i>April 2025 - July 2025</i></p>
+      <ul>
+        <li>📡 <b>Offline-First:</b> Built resilient apps with BLoC state management and local caching.</li>
+        <li>📉 <b>Optimization:</b> Designed media compression logic, reducing storage load by <b>40%</b>.</li>
+        <li>📍 <b>Real-Time:</b> Implemented live GPS tracking and location services.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Currently:** Building scalable apps at **iklo** (Hyderabad).
-- 🌱 **Learning:** Advanced Systems Design & squeezing every millisecond of performance out of Dart.
-- ⚡ **Superpower:** I can center a `div`... but I prefer a `Center` widget. 
-- 🎓 **Education:** B.Tech CSE at **Lovely Professional University** (2026).
+<!-- Projects Section -->
+<h3>🚀 Featured Projects</h3>
 
----
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AIdo (AI Scheduler)</h4>
+      <p>
+        <i>Flutter, Node.js, Gemini AI</i><br/>
+        A full-stack intelligent scheduler that parses natural language into structured daily tasks using Google's Gemini API.
+        <br/>
+        • <b>Key Tech:</b> JWT Auth, Rate-limiting, Render Deployment.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 MediLearn AI</h4>
+      <p>
+        <i>Next.js, TypeScript, Firebase, Gemini</i><br/>
+        AI-powered study platform that generates personalized quizzes and study plans on the fly.
+        <br/>
+        • <b>Key Tech:</b> Real-time feedback, User Analytics.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛒 LPU Fresh</h4>
+      <p>
+        <i>Flutter, Dart, UI/UX</i><br/>
+        A campus marketplace for students to buy/sell essentials with real-time listings.
+        <br/>
+        • <b>Key Tech:</b> Real-time DB, Campus-specific logic.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ AirHygro</h4>
+      <p>
+        <i>Flutter, OpenWeatherMap API</i><br/>
+        Cross-platform weather application focused on precise local data and clean UI.
+        <br/>
+        • <b>Key Tech:</b> BLoC, API Integration.
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Arsenal
+<br />
 
-<div align="center">
+<!-- Recommendations -->
+<h3>🏆 Hall of Fame</h3>
+<blockquote>
+  <b>"He is one of the most driven and detail-oriented young developers I’ve come across... Implemented advanced state management achieving 99.9% app reliability."</b>  
+  <br/>— <i>Ravi Kant Sahu (Assistant Professor, LPU)</i>
+</blockquote>
 
-| **Core Mobile** | **Backend & Database** | **Tools & Cloud** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
+<blockquote>
+  <b>"His problem-solving ability, eagerness to learn, and collaborative mindset make him a valuable asset to any team."</b>  
+  <br/>— <i>Dr. Om Prakash Yadav (Associate Professor, LPU)</i>
+</blockquote>
 
-</div>
+<br />
 
-> *Also fluent in: Java, C++, and deciphering obscure stack traces.*
-
----
-
-### 💼 Experience
-
-#### 🔹 **Flutter Developer** | [iklo](https://play.google.com/store/apps/details?id=com.airlo.iklo)
-📍 *Hyderabad, India (Hybrid)* | `Jul 2025 - Present`
-- 🏗️ Architecting end-to-end Flutter UIs with REST API & Firebase integration.
-- ⚡ Obsessed with performance: Optimized rendering & refactored legacy code for speed.
-- 🧩 Modularized the codebase to ensure features scale without breaking things.
-
-#### 🔹 **Software Development Intern** | [DrCode](https://drcode.in)
-📍 *Noida, India (Hybrid)* | `Apr 2025 - Jul 2025`
-- 📡 Engineered an **offline-first** architecture with BLoC state management.
-- 📉 Designed smart caching & media compression, cutting storage usage by **40%**.
-- 📍 Implemented real-time GPS location handling closer to the metal.
-
----
-
-### 🚀 Projects Showcase
-
-| **AIdo 🤖** | **MediLearn AI 📚** |
-| :--- | :--- |
-| *Flutter, Node.js, Gemini AI* | *Next.js, Firebase, Gemini* |
-| A full-stack AI scheduler that converts natural language into structured tasks. It knows what you need to do before you do. | AI-powered study platform generating personalized quizzes. It's like a tutor, but indexable. |
-
-<br/>
-
-| **LPU Fresh 🛒** | **AirHygro ☁️** |
-| :--- | :--- |
-| *Flutter, Dart, UI/UX* | *Flutter, OpenWeatherMap* |
-| A campus marketplace for students to buy/sell essentials. Real-time listings for real-time needs. | Cross-platform weather app featuring custom UI & BLoC for efficient state management. |
-
----
-
-### 🏆 Hall of Fame (Recommendations)
-
-> *"Priyanshu has consistently demonstrated strong technical skills and a passion for building scalable, multi-platform solutions... His problem-solving ability makes him a valuable asset to any team."*  
-> — **Dr. Om Prakash Yadav** (Associate Professor, LPU)
-
-> *"One of the most driven and detail-oriented young developers I’ve come across... Implemented advanced state management achieving 99.9% app reliability."*  
-> — **Ravi Kant Sahu** (Assistant Professor, LPU)
-
-> *"An impeccable team player... has a zeal for learning."*  
-> — **Gunseerat Kaur** (Assistant Professor)
-
----
-
-### 📊 GitHub Stats
-
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshusingh-in&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Priyanshu's GitHub Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshusingh-in&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
 </div>
-
 <div align="center">
  <a href="https://github.com/priyanshusingh-in">
-  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
  </a>
 </div>
 
----
+<br />
 
+<!-- Footer -->
 <div align="center">
-  <p>
-    <b>Let's specific-connect?</b><br/>
-    <a href="https://www.linkedin.com/in/priyanshusingh-in">LinkedIn</a> • <a href="mailto:in.priyanshusingh@gmail.com">Email</a> • <a href="https://github.com/priyanshusingh-in">GitHub</a>
-  </p>
-  <sub><i>Profile generated with 💙 and Dart.</i></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=100&section=footer" width="100%" />
 </div>
