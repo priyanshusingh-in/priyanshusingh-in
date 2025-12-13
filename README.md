@@ -115,12 +115,14 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Key Metrics -->
+  <!-- Classic Metrics -->
   <img src="https://metrics.lecoq.io/priyanshusingh-in?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics" />
   <br/><br/>
   
-  <!-- Minimal Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=priyanshusingh-in&theme=dark&hide_border=true&card_width=400&hide_total_contributions=true&hide_longest_streak=true" alt="Current Streak" />
+  <!-- Activity Graph (Robust Alternative to Streak Stats) -->
+  <a href="https://github.com/priyanshusingh-in">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=0075C2&line=02569B&point=FFFFFF&hide_border=true" alt="Priyanshu's Activity Graph" />
+  </a>
 </div>
 
 <br/>
