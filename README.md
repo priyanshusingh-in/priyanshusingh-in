@@ -121,7 +121,6 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
   <br/>
 
   [![GitHub Streak](https://github-readme-streak-stats-swart-omega.vercel.app?user=priyanshusingh-in&theme=transparent)](https://git.io/streak-stats)
-  
   <br/>
   
   <!-- Activity Graph (The Graph) -->
