@@ -118,7 +118,11 @@ I am a passionate **Flutter Developer** focused on crafting high-performance mob
   <!-- Classic Metrics (Reliable) -->
   <img src="https://metrics.lecoq.io/priyanshusingh-in?template=classic&config.timezone=Asia%2FKolkata" alt="Metrics" />
   
-  <br/><br/>
+  <br/>
+
+  [![GitHub Streak](https://github-readme-streak-stats-swart-omega.vercel.app?user=priyanshusingh-in&theme=transparent)](https://git.io/streak-stats)
+  
+  <br/>
   
   <!-- Activity Graph (The Graph) -->
   <a href="https://github.com/priyanshusingh-in">
