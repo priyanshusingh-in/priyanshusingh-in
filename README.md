@@ -5,7 +5,7 @@
 
 <br />
 
-<h1 align="center">Product-minded engineer across mobile, web, and backend</h1>
+<h1 align="center">Building product-focused software across mobile, web, and backend</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
@@ -16,15 +16,11 @@
   </a>
 </p>
 
----
-
 ### About me
 
 I am a software engineer at iklo working across Flutter, Next.js, and Node.js/Express. I ship production systems for mobile, web, and backend, and I am increasingly focused on product thinking, reliability, and user impact.
 
-I build with a view toward real users, faster rollout cycles, and smoother performance. I take ownership of features that span interfaces, APIs, and observability.
-
----
+I build with a focus on real users, rollout speed, and smoother performance. I take ownership of work that spans interfaces, APIs, and observability.
 
 ### What I build
 
@@ -33,8 +29,6 @@ I build with a view toward real users, faster rollout cycles, and smoother perfo
 - Backend APIs in Node.js and Express.js
 - Performance improvements for cold start, animation smoothness, and reliability
 - AI-powered product features using Gemini and OpenAI
-
----
 
 ### Selected highlights
 
@@ -45,8 +39,6 @@ I build with a view toward real users, faster rollout cycles, and smoother perfo
 - Delivered feature flag-driven rollouts for faster, safer launches
 - Built full-stack AI projects using Gemini and OpenAI
 
----
-
 ### Tech stack
 
 - Mobile: Flutter, Dart
@@ -56,8 +48,6 @@ I build with a view toward real users, faster rollout cycles, and smoother perfo
 - Tools: Git, GitHub, Render, Firebase
 - AI: Gemini, OpenAI
 
----
-
 ### Current focus
 
 - Product thinking across mobile, web, and backend
@@ -66,8 +56,6 @@ I build with a view toward real users, faster rollout cycles, and smoother perfo
 - Testing, performance, and production readiness
 - Collaboration with product, design, and engineering
 
----
-
 ### Currently learning
 
 - System design basics for scalable products
@@ -75,8 +63,6 @@ I build with a view toward real users, faster rollout cycles, and smoother perfo
 - Accessibility for mobile and web experiences
 - Testing strategies for UI and backend reliability
 - Debugging and production readiness for live systems
-
----
 
 ### GitHub Stats
 
