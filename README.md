@@ -67,7 +67,9 @@ I build with a focus on real users, rollout speed, and smoother performance. I t
 ### GitHub Stats
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats-swart-omega.vercel.app?user=priyanshusingh-in&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-swart-omega.vercel.app?user=priyanshusingh-in&theme=transparent" alt="GitHub Streak" />
+  </a>
   <br/>
   <a href="https://github.com/priyanshusingh-in">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshusingh-in&bg_color=0D1117&color=0075C2&line=02569B&point=FFFFFF&hide_border=true" alt="Priyanshu's Activity Graph" />
