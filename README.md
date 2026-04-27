@@ -20,7 +20,7 @@
 
 ### About me
 
-I am a software engineering intern at iklo working across Flutter, Next.js, and Node.js/Express. I ship production systems for mobile, web, and backend, and I am increasingly focused on product thinking, reliability, and user impact.
+I am a software engineer at iklo working across Flutter, Next.js, and Node.js/Express. I ship production systems for mobile, web, and backend, and I am increasingly focused on product thinking, reliability, and user impact.
 
 I build with a view toward real users, faster rollout cycles, and smoother performance. I take ownership of features that span interfaces, APIs, and observability.
 
