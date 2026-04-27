@@ -5,7 +5,7 @@
 
 <br />
 
-<h1 align="center">Product work across mobile, web, and backend</h1>
+<h1 align="center">Making products work across mobile, web, and backend</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
@@ -18,9 +18,11 @@
 
 ### About me
 
-I am a software engineer at iklo working across Flutter, Next.js, and Node.js/Express. I ship production systems for mobile, web, and backend, and I am increasingly focused on product thinking, reliability, and user impact.
+I build products that actually work well in the real world. I started with mobile, then moved into web and backend as product needs evolved.
 
-I build with a focus on real users, rollout speed, and smoother performance. I take ownership of work that spans interfaces, APIs, and observability.
+At iklo, I take ownership across apps, platforms, and production systems. My work is focused on faster performance, smoother flows, and more reliable systems.
+
+I am comfortable in fast-moving environments, figuring things out when requirements are not perfect, and stepping in where it matters to keep delivery moving.
 
 ### What I build
 
