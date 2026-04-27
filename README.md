@@ -18,13 +18,13 @@
 
 ### About me
 
-I build products that actually work well in the real world. I started with mobile, then moved into web and backend as product needs evolved.
+Building products that work in the real world, starting with mobile and expanding into web and backend as product needs evolved.
 
-At iklo, I take ownership across apps, platforms, and production systems. My work is focused on faster performance, smoother flows, and more reliable systems.
+At iklo, ownership spans apps, platforms, and production systems, with a focus on faster performance, smoother flows, and more reliable systems.
 
-I am comfortable in fast-moving environments, figuring things out when requirements are not perfect, and stepping in where it matters to keep delivery moving.
+Comfortable in fast-moving environments, with an ability to work through imperfect requirements and step in where it matters to keep delivery moving.
 
-### What I build
+### Work includes
 
 - Mobile apps for Android and iOS using Flutter
 - Web and PWA experiences with Next.js and TypeScript
