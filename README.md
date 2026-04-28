@@ -5,7 +5,7 @@
 
 <br />
 
-<h1 align="center">Making products work across mobile, web, and backend</h1>
+<h1 align="center">Less planning. More shipping.</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
