@@ -5,7 +5,7 @@
 
 <br />
 
-<h1 align="center">Less planning. More shipping.</h1>
+<h1 align="center">Shipping > Planning</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
