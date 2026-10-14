@@ -36,13 +36,12 @@ Most of it was built from scratch across phones, browsers and servers. I started
 
 <table align="center">
 <tr>
-<td align="center"><h3>~30%</h3><sub>less page lag</sub></td>
-<td align="center"><h3>~40%</h3><sub>fewer crashes</sub></td>
-<td align="center"><h3>~60%</h3><sub>smaller uploads</sub></td>
+<td align="center"><h3>6,200+</h3><sub>children on the platform</sub></td>
+<td align="center"><h3>4,700+</h3><sub>parents</sub></td>
+<td align="center"><h3>5</h3><sub>apps shipped to the stores</sub></td>
+<td align="center"><h3>15+ months</h3><sub>building 0-to-1</sub></td>
 </tr>
 </table>
-
-<p align="center"><sub>Measured on low-end phones after my performance work at iklo</sub></p>
 
 ---
 
@@ -50,6 +49,7 @@ Most of it was built from scratch across phones, browsers and servers. I started
 
 - Moved the parent app from native to a Next.js PWA
 - Built the Ask iklonaut chatbot in 2 days, from UI and backend to admin tools
+- Cut page lag ~30%, crashes ~40% and upload size ~60% on low-end phones
 - Built a real-time kiosk display in one day after spotting a child-safety gap at partner centers
 - Found and fixed a data-exposure risk in our public API docs
 - Rolled out features behind flags so launches were safer
