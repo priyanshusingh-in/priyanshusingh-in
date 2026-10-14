@@ -128,8 +128,20 @@ Most of it was built from scratch across phones, browsers and servers. I started
 <tr>
 <td><b>AI</b></td>
 <td>
+<img src="https://img.shields.io/badge/Agentic%20AI-374151?style=flat-square" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/RAG-374151?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/LLM%20integration-374151?style=flat-square" alt="LLM integration" />
+<img src="https://img.shields.io/badge/Multi--provider%20LLM%20failover-374151?style=flat-square" alt="Multi-provider LLM failover" />
+<img src="https://img.shields.io/badge/AI%20chatbots-374151?style=flat-square" alt="AI chatbots" />
+</td>
+</tr>
+<tr>
+<td><b>Models</b></td>
+<td>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Groq-374151?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/OpenRouter-374151?style=flat-square" alt="OpenRouter" />
 </td>
 </tr>
 </table>
