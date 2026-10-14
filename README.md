@@ -18,11 +18,11 @@
 
 ### About me
 
-I'm a Product Engineer at iklo. I joined as an intern when it was just getting started, and I'm still here. I make software for 6,000+ kids who don't often read the release notes.
+I'm a Product Engineer at iklo. I joined as an intern when it was just getting started, and I'm still here. The app is used by 6,000+ children across partner centers.
 
 Most of it was built from scratch across phones, browsers and servers. I started as the only person on mobile (Flutter) and picked up web and backend as the product needed them.
 
-I like the messy early stage, where the requirements are half-formed and someone just has to start. On weekends I prototype things, usually to make the ops team's day easier. I also guest lecture on UI/UX and product thinking for design students.
+I like the messy early stage, where the requirements are half-formed and someone just has to start. I also guest lecture on UI/UX and product thinking for design students.
 
 ### What I've shipped at iklo
 
