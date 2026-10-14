@@ -7,7 +7,13 @@
 
 <h1 align="center">Shipping > Planning</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=480&height=30&lines=Product+Engineer+%40+iklo;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Building+0-to-1+products" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=480&height=30&lines=Product+Engineer+%40+iklo;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+new+roles" alt="Typing intro" />
+</p>
+
+<p align="center">
+<b>Open to Product Engineer, Flutter and full-stack roles</b><br/>
+Hyderabad · Remote · Hybrid<br/>
+Best way to reach me: <a href="mailto:in.priyanshusingh@gmail.com">email</a> or a <a href="https://www.linkedin.com/in/priyanshusingh-in">LinkedIn DM</a>
 </p>
 
 
@@ -65,6 +71,14 @@ I like the messy early stage, where the requirements are half-formed and someone
 - Testing and performance
 - System design basics
 - Accessibility for mobile and web
+
+### Let's talk
+
+Hiring, or have a role or project in mind? I'd like to hear about it.
+
+- Email: [in.priyanshusingh@gmail.com](mailto:in.priyanshusingh@gmail.com)
+- LinkedIn: [linkedin.com/in/priyanshusingh-in](https://www.linkedin.com/in/priyanshusingh-in)
+- Location: Hyderabad, India (open to remote and hybrid)
 
 ### GitHub Stats
 
