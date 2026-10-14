@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<b>Open to Product Engineer, Flutter and full-stack roles</b><br/>
+<b>Open to Product, Program and Project Management, Product Analyst, Technical Consulting and Engineering roles</b><br/>
 Hyderabad · Remote · Hybrid<br/>
 Best way to reach me: <a href="mailto:in.priyanshusingh@gmail.com">email</a> or a <a href="https://www.linkedin.com/in/priyanshusingh-in">LinkedIn DM</a>
 </p>
