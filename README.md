@@ -18,53 +18,39 @@
 
 ### About me
 
-Building products that work in the real world, starting with mobile and expanding into web and backend as product needs evolved.
+I'm a Product Engineer at iklo, a childcare platform. I joined as a Flutter intern in July 2025 and was the only person on the mobile app in the early days. Since then I've picked up web and backend as the product needed them, and now I work across all of it, from the first requirement to what's running in production.
 
-At iklo, ownership spans apps, platforms, and production systems, with a focus on faster performance, smoother flows, and more reliable systems.
+I like the messy early stage, where the requirements are half-formed and someone just has to start. I also guest lecture on UI/UX and product thinking for design students.
 
-Comfortable in fast-moving environments, with an ability to work through imperfect requirements and step in where it matters to keep delivery moving.
+### What I've shipped at iklo
 
-### Work includes
+- Moved the parent app from native to a Next.js PWA
+- Built the Ask iklonaut chatbot, from UI and backend to admin tools, in 2 days
+- Cut page lag ~30%, crashes ~40% and upload size ~60% on low-end phones
+- Built a real-time kiosk display in one day after spotting a child-safety gap at partner centers
+- Found and fixed a data-exposure risk in our public API docs
+- Rolled out features behind flags so launches were safer
 
-- Mobile apps for Android and iOS using Flutter
-- Web and PWA experiences with Next.js and TypeScript
-- Backend APIs in Node.js and Express.js
-- Performance improvements for cold start, animation smoothness, and reliability
-- AI-powered product features using Gemini and OpenAI
+### Things I've built on my own
 
-### Selected highlights
-
-- Shipped production apps to Google Play Store and Apple App Store
-- Built iklo Web and PWA with Next.js and TypeScript
-- Improved production performance by reducing cold start time and removing UI jank
-- Contributed to backend API fixes and reliability improvements in live systems
-- Delivered feature flag-driven rollouts for faster, safer launches
-- Built full-stack AI projects using Gemini and OpenAI
+- **HanapHire**: a gig-hiring marketplace where an AI agent scores every applicant (Next.js, TypeScript, Supabase)
+- **MediLearn AI**: a study platform for medical students with Gemini-generated quizzes and adaptive study plans
 
 ### Tech stack
 
 - Mobile: Flutter, Dart
-- Web: Next.js, TypeScript, JavaScript, HTML, CSS
+- Web: Next.js, TypeScript, PWA
 - Backend: Node.js, Express.js, REST APIs
-- Database: MongoDB, Firebase, Supabase
+- Data: PostgreSQL, MongoDB, Firebase, Supabase
+- AI: Gemini, OpenAI, RAG
 - Tools: Git, GitHub, Render, Firebase
-- AI: Gemini, OpenAI
 
-### Current focus
+### Currently working on
 
-- Product thinking across mobile, web, and backend
-- Next.js frontend depth and PWA reliability
-- API design, backend fundamentals, and observability
-- Testing, performance, and production readiness
-- Collaboration with product, design, and engineering
-
-### Currently learning
-
-- System design basics for scalable products
-- Experimentation, analytics, and release measurement
-- Accessibility for mobile and web experiences
-- Testing strategies for UI and backend reliability
-- Debugging and production readiness for live systems
+- Backend fundamentals and observability
+- Testing and performance
+- System design basics
+- Accessibility for mobile and web
 
 ### GitHub Stats
 
