@@ -61,9 +61,37 @@ Most of it was built from scratch across phones, browsers and servers. I started
 
 ---
 
-### Tech stack
+### Skills
 
 <table align="center">
+<tr>
+<td><b>Product</b></td>
+<td>
+<img src="https://img.shields.io/badge/Product%20strategy-374151?style=flat-square" alt="Product strategy" />
+<img src="https://img.shields.io/badge/PRDs-374151?style=flat-square" alt="PRDs" />
+<img src="https://img.shields.io/badge/Roadmap%20prioritization-374151?style=flat-square" alt="Roadmap prioritization" />
+<img src="https://img.shields.io/badge/Backlog%20management-374151?style=flat-square" alt="Backlog management" />
+<img src="https://img.shields.io/badge/Release%20planning-374151?style=flat-square" alt="Release planning" />
+</td>
+</tr>
+<tr>
+<td><b>Program and Project</b></td>
+<td>
+<img src="https://img.shields.io/badge/Stakeholder%20and%20vendor%20management-374151?style=flat-square" alt="Stakeholder and vendor management" />
+<img src="https://img.shields.io/badge/Agile%20and%20sprint%20planning-374151?style=flat-square" alt="Agile and sprint planning" />
+<img src="https://img.shields.io/badge/Change%20management-374151?style=flat-square" alt="Change management" />
+<img src="https://img.shields.io/badge/Cross--functional%20delivery-374151?style=flat-square" alt="Cross-functional delivery" />
+</td>
+</tr>
+<tr>
+<td><b>Analytics</b></td>
+<td>
+<img src="https://img.shields.io/badge/SQL-374151?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/Excel-374151?style=flat-square" alt="Excel" />
+<img src="https://img.shields.io/badge/Product%20analytics-374151?style=flat-square" alt="Product analytics" />
+<img src="https://img.shields.io/badge/KPI%20tracking-374151?style=flat-square" alt="KPI tracking" />
+</td>
+</tr>
 <tr>
 <td><b>Mobile</b></td>
 <td>
