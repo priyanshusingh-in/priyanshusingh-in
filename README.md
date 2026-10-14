@@ -18,9 +18,11 @@
 
 ### About me
 
-I'm a Product Engineer at iklo, a childcare platform. I joined as a Flutter intern in July 2025 and was the only person on the mobile app in the early days. Since then I've picked up web and backend as the product needed them, and now I work across all of it, from the first requirement to what's running in production.
+I'm a Product Engineer at iklo. I joined as an intern when it was just getting started, and I'm still here. I make software for 6,000+ kids who don't often read the release notes.
 
-I like the messy early stage, where the requirements are half-formed and someone just has to start. I also guest lecture on UI/UX and product thinking for design students.
+Most of it was built from scratch across phones, browsers and servers. I started as the only person on mobile (Flutter) and picked up web and backend as the product needed them.
+
+I like the messy early stage, where the requirements are half-formed and someone just has to start. On weekends I prototype things, usually to make the ops team's day easier. I also guest lecture on UI/UX and product thinking for design students.
 
 ### What I've shipped at iklo
 
