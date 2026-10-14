@@ -24,6 +24,9 @@ Technical Consulting · Engineering
 <a href="https://www.linkedin.com/in/priyanshusingh-in">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://drive.google.com/file/d/1gZIxSZMb6oei3IUcHm0mE4W703V3Z02p/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
 </p>
 
 ---
@@ -141,6 +144,7 @@ Hiring, or have a role or project in mind? I'd like to hear about it.
 
 - Email: [in.priyanshusingh@gmail.com](mailto:in.priyanshusingh@gmail.com)
 - LinkedIn: [linkedin.com/in/priyanshusingh-in](https://www.linkedin.com/in/priyanshusingh-in)
+- Resume: [View or download](https://drive.google.com/file/d/1gZIxSZMb6oei3IUcHm0mE4W703V3Z02p/view?usp=sharing)
 - Location: Hyderabad, India (open to remote and hybrid)
 
 ---
