@@ -12,8 +12,9 @@
 </p>
 
 <p align="center">
-<b>Open to Product, Program and Project Management, Product Analyst, Technical Consulting and Engineering roles</b><br/>
-Hyderabad · Remote · Hybrid
+<b>Open to work</b> · Hyderabad · Remote · Hybrid<br/>
+Product · Program · Project Management · Product Analyst<br/>
+Technical Consulting · Engineering
 </p>
 
 <p align="center">
@@ -38,18 +39,17 @@ Most of it was built from scratch across phones, browsers and servers. I started
 <td align="center"><h3>~30%</h3><sub>less page lag</sub></td>
 <td align="center"><h3>~40%</h3><sub>fewer crashes</sub></td>
 <td align="center"><h3>~60%</h3><sub>smaller uploads</sub></td>
-<td align="center"><h3>2 days</h3><sub>chatbot to production</sub></td>
 </tr>
 </table>
 
-<p align="center"><sub>On low-end phones, after fixing performance at iklo</sub></p>
+<p align="center"><sub>Measured on low-end phones after my performance work at iklo</sub></p>
 
 ---
 
 ### Shipped at iklo
 
 - Moved the parent app from native to a Next.js PWA
-- Built the Ask iklonaut chatbot, from UI and backend to admin tools
+- Built the Ask iklonaut chatbot in 2 days, from UI and backend to admin tools
 - Built a real-time kiosk display in one day after spotting a child-safety gap at partner centers
 - Found and fixed a data-exposure risk in our public API docs
 - Rolled out features behind flags so launches were safer
@@ -63,7 +63,7 @@ Most of it was built from scratch across phones, browsers and servers. I started
 
 ### Tech stack
 
-<table>
+<table align="center">
 <tr>
 <td><b>Mobile</b></td>
 <td>
