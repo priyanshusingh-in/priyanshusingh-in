@@ -6,6 +6,10 @@
 <br />
 
 <h1 align="center">Shipping > Planning</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=480&height=30&lines=Product+Engineer+%40+iklo;Flutter+%C2%B7+Next.js+%C2%B7+Node.js;Building+0-to-1+products" alt="Typing intro" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusingh-in">
@@ -40,12 +44,20 @@ I like the messy early stage, where the requirements are half-formed and someone
 
 ### Tech stack
 
-- Mobile: Flutter, Dart
-- Web: Next.js, TypeScript, PWA
-- Backend: Node.js, Express.js, REST APIs
-- Data: PostgreSQL, MongoDB, Firebase, Supabase
-- AI: Gemini, OpenAI, RAG
-- Tools: Git, GitHub, Render, Firebase
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
 
 ### Currently working on
 
